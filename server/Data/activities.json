@@ -1,0 +1,16 @@
+{
+    "activities": [
+        {
+            "code": "OTHER",
+            "manager": "smith",
+            "name": "Other",
+            "budget": -1
+        },
+        {
+            "code": "Air20",
+            "manager": "marc",
+            "name": "air20",
+            "budget": 20
+        }
+    ]
+}

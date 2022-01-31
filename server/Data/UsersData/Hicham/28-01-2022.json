@@ -1,0 +1,10 @@
+{
+    "entries": [
+        {
+            "date": "2022",
+            "time": "403",
+            "code": "fungus",
+            "description": "this is a test for the post method of the api"
+        }
+    ]
+}

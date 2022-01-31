@@ -1,0 +1,78 @@
+html, body * { 
+    font-family: 'Ubuntu', sans-serif;
+}
+
+.App{
+    text-align: center;
+    border : 0;
+}
+
+a{
+    text-decoration: none;
+}
+
+
+nav{
+    display: flex;
+    margin-top: 0;
+    justify-content: space-around;
+    align-items: center;
+    min-height: 10vh;
+    background: rgb(29, 82, 107);
+    color: white;
+}
+
+.nav-links{
+    width: 50%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    list-style: none;
+
+}
+
+.nav-bar-buttons{
+    color: white;
+}
+
+table.customTable {
+    width: 100%;
+    background-color: #FFFFFF;
+    border-collapse: collapse;
+    border-width: 2px;
+    border-color: rgb(17, 84, 116);
+    border-style: solid;
+    color: #000000;
+  }
+  
+  table.customTable td, table.customTable th {
+     
+    border-width: 2px;
+    border-color: rgb(17, 84, 116);
+    border-style: solid;
+    padding: 5px;
+    
+  }
+  
+  table.customTable thead {
+    background-color: rgb(17, 84, 116);
+    color: white;
+  }
+
+.activity-container{
+    
+    margin-top: 100px;
+
+}
+
+.activity-button{
+    width: 20%;
+    margin-left: 5px;
+}
+.Home-buttons{
+    margin-top: 200px;
+}
+.Home-buttons, button{
+    margin-right: 20px;
+    
+}
